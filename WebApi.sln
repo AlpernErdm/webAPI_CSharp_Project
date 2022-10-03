@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{1506394C-34F9-4461-8C7C-312C0F3D348F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seyir.TarihApi", "Seyir.TarihApi\Seyir.TarihApi.csproj", "{E5389888-1813-415D-AE7D-506734EF10CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1506394C-34F9-4461-8C7C-312C0F3D348F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1506394C-34F9-4461-8C7C-312C0F3D348F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1506394C-34F9-4461-8C7C-312C0F3D348F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1506394C-34F9-4461-8C7C-312C0F3D348F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5389888-1813-415D-AE7D-506734EF10CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5389888-1813-415D-AE7D-506734EF10CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5389888-1813-415D-AE7D-506734EF10CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5389888-1813-415D-AE7D-506734EF10CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05B35E6B-D192-413F-8C04-656B92321254}
+	EndGlobalSection
+EndGlobal

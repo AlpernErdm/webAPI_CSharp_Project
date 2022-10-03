@@ -1,0 +1,4 @@
+﻿get: /city/ankara
+
+response: true
+response: false
